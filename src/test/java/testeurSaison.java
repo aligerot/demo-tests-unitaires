@@ -7,7 +7,7 @@ import static fr.diginamic.enumerations.Saison.valueOfLibelle;
 import static org.junit.Assert.assertEquals;
 
 
-public class testeur {
+public class testeurSaison {
     //non pasant
 
     @Test
